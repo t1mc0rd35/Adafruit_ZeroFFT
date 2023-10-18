@@ -6,6 +6,7 @@
  */
 
 #include "Adafruit_ZeroFFT.h"
+#include <stdlib.h>
 
 /*
  * @brief  In-place bit reversal function.

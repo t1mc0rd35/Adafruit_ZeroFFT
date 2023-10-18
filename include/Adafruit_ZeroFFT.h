@@ -18,7 +18,7 @@
 #ifndef ADAFRUIT_ZEROFFT_ADAFRUIT_ZEROFFT_H_
 #define ADAFRUIT_ZEROFFT_ADAFRUIT_ZEROFFT_H_
 
-#include <Arduino.h>
+#include <pico.h>
 
 #define FFT_BIN(num, fs, size)                                                 \
   (num *                                                                       \
